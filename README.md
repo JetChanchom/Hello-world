@@ -1,19 +1,15 @@
 ## Table of contents
 
 - [PROJECT TITLE](#Project-Title)
-- [DESCRIPTION](#Description)
-- [HOW TO RUN PROGRAM](#How-to-run-program)
-- [FILES USED](#files-used)
-- [ADDITIONAL DOCUMENTATION](#additional-documentation)
-- [VERSIONING](#versioning)
 
-## Project Title
 
-*Hello World Sample* 
+## Title
+
+*GitHub Practice* 
 
 ## Description
 
-Practice using GitHub by creating a sample repository. Make sure you add a description to help others understand your project.
+This is practice for learning how to use GitHub.
 
 ## How to Run Program 
 
@@ -42,8 +38,3 @@ Hello_World/
 ## Additional Documentation
 
 No additional documentation at this time.  Here is some **BOLD** text 
-
-
-## Versioning
-
-Discuss any versioning used especially if you are making major changes throughout the process of your code.
