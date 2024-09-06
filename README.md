@@ -1,15 +1,17 @@
+
 ## Table of contents
 
 - [PROJECT TITLE](#Project-Title)
 
 
-## Title
+#### Title
 
-*GitHub Practice* 
+Practicing *GitHub* 
 
 ## Description
 
-This is practice for learning how to use GitHub.
+This is for _me_ to learn how to use GitHub
+
 
 ## How to Run Program 
 
