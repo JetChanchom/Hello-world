@@ -33,8 +33,7 @@ Markdown Text Testing
 - *Italics*
 - **Bold**
 - ***Both***
-- Subscript~1~
-- Superscript^2^
+- ~strikethrough~
 
 ## Versioning
 
