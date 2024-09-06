@@ -1,10 +1,4 @@
-
-## Table of contents
-
-- [PROJECT TITLE](#Project-Title)
-
-
-#### Title
+## Project Title
 
 Practicing *GitHub* 
 
@@ -12,31 +6,37 @@ Practicing *GitHub*
 
 This is for _me_ to learn how to use GitHub
 
-
 ## How to Run Program 
 
-Explain here how you would run the program and what files need to be available. 
+1. Find it in file explorer
+2. Run it
+3. This:
 ```text
-Hello_World/
+Greetingseveryone.py
 └── 
     │── README.md
-    │── pgmname1.R
-    │── filename1.csv
-    │── examples.html
+    │── lab0jetC.py
+    │── jet-chanchomresume2024.pdf
+    │── acct2100wk2notes.docx
    
 ```
 
 ## Files Used 
 
-- Did you use any datafiles?  
-- List filenames
-- Where you got them 
-- What is contained within the data files?
-- Datafile considerations 
-- URL links to files - example here:
-[Baby names from 1880 to present](https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data)
+- N/A
+- README.md
 
   
 ## Additional Documentation
 
-No additional documentation at this time.  Here is some **BOLD** text 
+Markdown Text Testing
+*Italics*
+**Bold**
+***Both***
+Sub~script~
+Super^script^
+
+## Versioning
+
+- [x] Is this done
+- [ ] Is this enough
