@@ -30,11 +30,11 @@ Greetingseveryone.py
 ## Additional Documentation
 
 Markdown Text Testing
-*Italics*
-**Bold**
-***Both***
-Sub~script~
-Super^script^
+- *Italics*
+- **Bold**
+- ***Both***
+- Subscript~1~
+- Superscript^2^
 
 ## Versioning
 
